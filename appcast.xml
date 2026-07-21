@@ -6,6 +6,28 @@
         <description>TML Tunnel Manager Update Feed</description>
         <language>en</language>
         <item>
+            <title>TML Tunnel Manager v7.0</title>
+            <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>⚠️ Major Update — New License Required</h3>
+                <p>This is a major update to v7.0. A new license key is required.</p>
+                <p>Contact your administrator to get a new license key.</p>
+                <h3>What's new in v7.0</h3>
+                <ul>
+                    <li>Major release test</li>
+                    <li>New license required</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/hassan-alaie/tml-tunnel-manager/releases/download/v7.0/TML.Tunnel.Manager.7.0.zip"
+                sparkle:edSignature="TNSCh0wkKmejCQL+0FgOOjlESUSUMgQK2TLsHhY61YpBvaxGCtFM94BVZlJseGAIbh4Y+sU22ZhdruQMlBEiDQ=="
+                length="3772446"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>TML Tunnel Manager v6.5</title>
             <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
             <sparkle:version>8</sparkle:version>
@@ -23,104 +45,6 @@
                 url="https://github.com/hassan-alaie/tml-tunnel-manager/releases/download/v6.5/TML.Tunnel.Manager.6.5.zip"
                 sparkle:edSignature="qoM+cQUu7BfDWRPYNWfw4uvoJIOLZlcYtAeGXHOETFWLowfp+5pfz9ur0TNEyXccN9lVFEAyRsHYESZohi8OBg=="
                 length="3772714"
-                type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>TML Tunnel Manager v6.4</title>
-            <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>6.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <h3>What's new in v6.4</h3>
-                <ul>
-                    <li>Check for updates at launch</li>
-                    <li>Auto-update fully disabled</li>
-                    <li>Bug fixes</li>
-                </ul>
-            ]]></description>
-            <enclosure
-                url="https://github.com/hassan-alaie/tml-tunnel-manager/releases/download/v6.4/TML.Tunnel.Manager.6.4.zip"
-                sparkle:edSignature="fxtG5JvOD/1OYU7590Yhhl+uTv2Ya0GQfR4Og5lJIn5b1zFN7qvKdi0Xh6rDAcCSFsw0khiqXIXe6+TDD7P9Cw=="
-                length="3772742"
-                type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>TML Tunnel Manager v6.3</title>
-            <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>6.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <h3>What's new in v6.3</h3>
-                <ul>
-                    <li>Disabled auto-download and auto-install</li>
-                    <li>Bug fixes</li>
-                </ul>
-            ]]></description>
-            <enclosure
-                url="https://github.com/hassan-alaie/tml-tunnel-manager/releases/download/v6.3/TML.Tunnel.Manager.6.3.zip"
-                sparkle:edSignature="x7jiIdCVzdozQ6fpE+4KeV5wQl/H6ssrTWIt++Ve9zt16q69SXAzKYn08BpMhgbjGc6F15ps12Bgt5gm0hNlBA=="
-                length="3771638"
-                type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>TML Tunnel Manager v6.2</title>
-            <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>6.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <h3>What's new in v6.2</h3>
-                <ul>
-                    <li>Update notifications without auto-install</li>
-                    <li>Daily automatic update check</li>
-                    <li>Bug fixes</li>
-                </ul>
-            ]]></description>
-            <enclosure
-                url="https://github.com/hassan-alaie/tml-tunnel-manager/releases/download/v6.2/TML.Tunnel.Manager.6.2.zip"
-                sparkle:edSignature="fZAEY0A/HTv/DZTOSiNEilVMdQgwsPBCWZMBxQ5mZtREveiH7DQQGd4ByQfE4txrkODhBi85OROjjJP4qVZDAg=="
-                length="3771634"
-                type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>TML Tunnel Manager v6.1</title>
-            <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>6.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <h3>What's new in v6.1</h3>
-                <ul>
-                    <li>Minor update test</li>
-                    <li>Bug fixes</li>
-                </ul>
-            ]]></description>
-            <enclosure
-                url="https://github.com/hassan-alaie/tml-tunnel-manager/releases/download/v6.1/TML.Tunnel.Manager.6.1.zip"
-                sparkle:edSignature="P1REt0w9HVhn7ED6byezAp38HrttOD30TbyUo/d+uzIw1gj8z+9LryNPN6Sd67avdVYCtjkKYNjkgKgMMsYCBQ=="
-                length="3771635"
-                type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>TML Tunnel Manager v6.0</title>
-            <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>6.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <h3>What's new in v6.0</h3>
-                <ul>
-                    <li>Auto-update support via Sparkle</li>
-                    <li>Check for Updates option in menu bar</li>
-                    <li>Bug fixes</li>
-                </ul>
-            ]]></description>
-            <enclosure
-                url="https://github.com/hassan-alaie/tml-tunnel-manager/releases/download/v6.0/TML.Tunnel.Manager.6.0.zip"
-                sparkle:edSignature="+KVbUREx9kVivajZYRKQW4y/dZc0FMwq8LK040fgnuiUAKZxCKkYkD2S4lrWnsDAIvo7GC/8F06TnrhcsZNoAg=="
-                length="3765114"
                 type="application/octet-stream"/>
         </item>
     </channel>
