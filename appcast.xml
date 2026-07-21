@@ -6,6 +6,26 @@
         <description>TML Tunnel Manager Update Feed</description>
         <language>en</language>
         <item>
+            <title>TML Tunnel Manager v6.4</title>
+            <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>6.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's new in v6.4</h3>
+                <ul>
+                    <li>Check for updates at launch</li>
+                    <li>Auto-update fully disabled</li>
+                    <li>Bug fixes</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/hassan-alaie/tml-tunnel-manager/releases/download/v6.4/TML.Tunnel.Manager.6.4.zip"
+                sparkle:edSignature="fxtG5JvOD/1OYU7590Yhhl+uTv2Ya0GQfR4Og5lJIn5b1zFN7qvKdi0Xh6rDAcCSFsw0khiqXIXe6+TDD7P9Cw=="
+                length="3772742"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>TML Tunnel Manager v6.3</title>
             <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
             <sparkle:version>6</sparkle:version>
