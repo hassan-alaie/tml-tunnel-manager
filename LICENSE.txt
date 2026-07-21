@@ -1,0 +1,55 @@
+TML TUNNEL MANAGER — COMMERCIAL SOFTWARE LICENSE
+
+Copyright © 2024-2026 Hassan Alaie / TML - The Missing Link
+Contact: tml.softdev@gmail.com
+
+All rights reserved.
+
+TERMS AND CONDITIONS
+
+1. GRANT OF LICENSE
+   This software is licensed, not sold. Upon purchase or authorization of a
+   license key, you are granted a non-exclusive, non-transferable license to
+   install and use TML Tunnel Manager on a single Mac computer.
+
+2. RESTRICTIONS
+   You may not:
+   a) Copy, modify, or distribute this software without written permission
+   b) Reverse engineer, decompile, or disassemble the software
+   c) Rent, lease, or lend the software to third parties
+   d) Use the software on more than one computer per license key
+   e) Transfer your license to another person or computer
+
+3. LICENSE KEYS
+   Each license key is tied to the hardware of a specific Mac computer and
+   to a specific major version of the software. License keys are not
+   transferable between computers or major versions.
+
+4. TRIAL PERIOD
+   This software may be used free of charge for a period of 30 days from
+   the date of first installation. After the trial period expires, a valid
+   license key is required to continue using the software.
+
+5. UPDATES
+   - Minor updates (e.g. 6.x) are included with your license at no extra cost.
+   - Major updates (e.g. 7.0) require a new license key.
+
+6. SUPPORT
+   Technical support is provided exclusively to licensed users.
+   Contact: tml.softdev@gmail.com
+
+7. DISCLAIMER OF WARRANTIES
+   This software is provided "as is" without warranty of any kind, express
+   or implied. The author shall not be liable for any damages arising from
+   the use of this software.
+
+8. TERMINATION
+   This license is effective until terminated. It will terminate automatically
+   if you fail to comply with any of its terms and conditions.
+
+9. GOVERNING LAW
+   This license shall be governed by the laws of Norway.
+
+---
+
+For licensing inquiries contact: tml.softdev@gmail.com
