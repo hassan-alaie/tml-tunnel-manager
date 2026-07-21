@@ -6,28 +6,6 @@
         <description>TML Tunnel Manager Update Feed</description>
         <language>en</language>
         <item>
-            <title>TML Tunnel Manager v7.0</title>
-            <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>7.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <h3>⚠️ Major Update — New License Required</h3>
-                <p>This is a major update to v7.0. A new license key is required.</p>
-                <p>Contact your administrator to get a new license key.</p>
-                <h3>What's new in v7.0</h3>
-                <ul>
-                    <li>Major release test</li>
-                    <li>New license required</li>
-                </ul>
-            ]]></description>
-            <enclosure
-                url="https://github.com/hassan-alaie/tml-tunnel-manager/releases/download/v7.0/TML.Tunnel.Manager.7.0.zip"
-                sparkle:edSignature="TNSCh0wkKmejCQL+0FgOOjlESUSUMgQK2TLsHhY61YpBvaxGCtFM94BVZlJseGAIbh4Y+sU22ZhdruQMlBEiDQ=="
-                length="3772446"
-                type="application/octet-stream"/>
-        </item>
-        <item>
             <title>TML Tunnel Manager v6.5</title>
             <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
             <sparkle:version>8</sparkle:version>
