@@ -17,13 +17,14 @@
                     <li>Silent background update check at launch</li>
                     <li>Only notifies when update is available</li>
                     <li>Notarized by Apple</li>
+                    <li>Contact email added to Registration and About box</li>
                     <li>Bug fixes</li>
                 </ul>
             ]]></description>
             <enclosure
                 url="https://github.com/hassan-alaie/tml-tunnel-manager/releases/download/v6.5/TML.Tunnel.Manager.6.5.zip"
-                sparkle:edSignature="ihkJ8KA9/LSQjd3rEbvjHUYQqa5q+mdN4RqX0Zu3fCpcYj4EF0hh7YPJW7QZmfPq+TwvLR/jB7HpHF4ANKrdDg=="
-                length="3904580"
+                sparkle:edSignature="xQeQP7zjC3+IH1ncvFg4QFcBVy2ZNGyxbgdJZ+AO6hsH8TMDjDKSPd3e+y1ieHXjGbITPQuMx4xrEXXnzDnZBQ=="
+                length="3905141"
                 type="application/octet-stream"/>
         </item>
     </channel>
