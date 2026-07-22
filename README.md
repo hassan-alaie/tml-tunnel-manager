@@ -23,9 +23,9 @@ A macOS SSH SOCKS4 tunnel manager with menu bar integration, auto-update support
 
 2. Extract the ZIP file
 
-3. Open Terminal and navigate to the extracted folder:
+3. Open Terminal and navigate to the folder containing the extracted app and install.sh:
    ```bash
-   cd ~/Downloads/"TML Tunnel Manager X.X"
+   cd ~/Downloads
    ```
 
 4. Run the installer:
@@ -35,6 +35,14 @@ A macOS SSH SOCKS4 tunnel manager with menu bar integration, auto-update support
 
 5. The app will be installed to `/Applications`
 
+6. **If you see a "damaged" or "not opened" warning:**
+   - Open **System Settings → Privacy & Security**
+   - Scroll down to the **Security** section
+   - You will see a message about TML Tunnel Manager being blocked
+   - Click **Open Anyway**
+   - Enter your password if prompted
+   - The app will now open normally ✅
+
 ---
 
 ## First Launch
@@ -43,8 +51,9 @@ A macOS SSH SOCKS4 tunnel manager with menu bar integration, auto-update support
 2. Allow **Notifications** when prompted (required for connection alerts)
 3. Go to **Registration…** in the menu bar icon
 4. Copy your **Hardware Fingerprint**
-5. Send your **name** and **fingerprint** to **tml.softdev@gmail.com** to receive your license key
-6. Enter your name and license key in the Registration window
+5. Contact **tml.softdev@gmail.com** for pricing and registration
+6. Include your **name** and **fingerprint** in your email
+7. Enter your name and license key in the Registration window
 
 ---
 
@@ -88,12 +97,13 @@ Remember to allow notifications from System Settings → Notifications → TML T
 
 ## Uninstallation
 
-1. Open Terminal and navigate to the folder containing `uninstall.sh`
-2. Run:
+1. Open Terminal
+2. Navigate to the folder containing `uninstall.sh`
+3. Run:
    ```bash
    bash uninstall.sh
    ```
-3. This removes the app, configuration, saved passwords and all leftovers
+4. This removes the app, configuration, saved passwords and all leftovers
 
 ---
 
@@ -123,7 +133,7 @@ When an update is available, a dialog will appear with release notes and the opt
 
 ## Support
 
-For license requests or support contact:  
+For licensing, pricing or support contact:  
 📧 **tml.softdev@gmail.com**
 
 Please include your **name** and **hardware fingerprint** (available in Registration window) when requesting a license.
