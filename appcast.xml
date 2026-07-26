@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>TML Tunnel Manager</title>
+        <link>https://hassan-alaie.github.io/tml-tunnel-manager/appcast.xml</link>
+        <description>TML Tunnel Manager Update Feed</description>
+        <language>en</language>
+        <item>
+            <title>TML Tunnel Manager v6.8.1</title>
+            <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>6.8.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's new in v6.8.1</h3>
+                <ul>
+                    <li>Added Tools menu with Settings, Check for Updates and Registration</li>
+                    <li>Bug fixes</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/hassan-alaie/tml-tunnel-manager/releases/download/v6.8.1/TML.Tunnel.Manager.6.8.1.zip"
+                sparkle:edSignature="bHt6yTTlFL3LVN76D7RRgsmm7g8TXlHLDcNwKyQxx4f0i9Wofx7pXAiSn1dgHFZXcNK9pNN3n+kh6Iuc54WPCg=="
+                length="1915267"
+                type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>TML Tunnel Manager v6.8</title>
+            <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>6.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's new in v6.8</h3>
+                <ul>
+                    <li>Fixed "damaged app" warning after Sparkle updates</li>
+                    <li>Improved bundle packaging</li>
+                    <li>Bug fixes</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/hassan-alaie/tml-tunnel-manager/releases/download/v6.8/TML.Tunnel.Manager.6.8.zip"
+                sparkle:edSignature="C/5Ahldpoj8LZoZkuad8r8rNcd+I3n9Vcp9MqIjQBGU2XGOwDnabguCIFgG2wbhJMzHQicdhLkSS29oU5us3DQ=="
+                length="1912964"
+                type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
