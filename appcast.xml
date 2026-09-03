@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>TML Tunnel Manager</title>
+        <link>https://hassan-alaie.github.io/tml-tunnel-manager/appcast.xml</link>
+        <description>TML Tunnel Manager Update Feed</description>
+        <language>en</language>
+        <item>
+            <title>TML Tunnel Manager v6.9.0</title>
+            <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>6.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's new in v6.9.0</h3>
+                <ul>
+                    <li>Removed unnecessary Keychain prompts — only one prompt per tunnel now</li>
+                    <li>Cleaned up prompt text Keychain entries no longer needed</li>
+                    <li>Bug fixes</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/hassan-alaie/tml-tunnel-manager/releases/download/v6.9.0/TML.Tunnel.Manager.6.9.0.zip"
+                sparkle:edSignature="Lp3yuDyosn2I4ZFfe1kzQVqJsSmV/aJuHF5T6tSAlIpdwi/Zpgw3HZ+i+mciCRPXJIfOm09DxBeFOkTlFUZFDg=="
+                length="1929953"
+                type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>TML Tunnel Manager v6.8.9</title>
+            <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>6.8.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's new in v6.8.9</h3>
+                <ul>
+                    <li>Fixed password prompt when tunnel drops after successful connection</li>
+                    <li>Precise Keychain clearing — only when authentication fails before connecting</li>
+                    <li>Bug fixes</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/hassan-alaie/tml-tunnel-manager/releases/download/v6.8.9/TML.Tunnel.Manager.6.8.9.zip"
+                sparkle:edSignature="PiK0F/nKl4QKt4xci9eiheZlvR8AlZ7Z/krmDzoD/fNdzDAAFIN1yFe3vvKYAnttvaQjyph3iLJnMo4V641UCw=="
+                length="1932963"
+                type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
