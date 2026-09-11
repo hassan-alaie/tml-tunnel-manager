@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>TML Tunnel Manager</title>
+        <link>https://hassan-alaie.github.io/tml-tunnel-manager/appcast.xml</link>
+        <description>TML Tunnel Manager Update Feed</description>
+        <language>en</language>
+        <item>
+            <title>TML Tunnel Manager v6.9.3</title>
+            <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>6.9.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's new in v6.9.3</h3>
+                <ul>
+                    <li>New: Tunnel dependency configuration — connect dependent tunnels automatically</li>
+                    <li>Auto-reconnect on network drop respects tunnel order and dependencies</li>
+                    <li>Circular dependency protection in settings</li>
+                    <li>Dependency indicator shown in menu bar (via ssh-ext)</li>
+                    <li>Password change flow works correctly with dependencies</li>
+                    <li>Bug fixes</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/hassan-alaie/tml-tunnel-manager/releases/download/v6.9.3/TML.Tunnel.Manager.6.9.3.zip"
+                sparkle:edSignature="pGqbYNguTgR7jPDWFSasw9BB3lz/fF8mOpfhMQAIzSz4TCxZkgA8PN+e1MQjA5IGttYzPUwuIQHUlnObDtLgBQ=="
+                length="1960441"
+                type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>TML Tunnel Manager v6.9.2</title>
+            <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>6.9.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's new in v6.9.2</h3>
+                <ul>
+                    <li>Save to Keychain checkbox hidden for BuyPass and RSA prompts</li>
+                    <li>Improved error messages</li>
+                    <li>Bug fixes</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/hassan-alaie/tml-tunnel-manager/releases/download/v6.9.2/TML.Tunnel.Manager.6.9.2.zip"
+                sparkle:edSignature="AVSQbIKwGa+812Yp4uoEXJ1wJxks62wlrVk+OPSKC1bYc5bGP+/3Rl1me22urdhE3iAPna7GXCLy+2O+6yVxAg=="
+                length="1930636"
+                type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
