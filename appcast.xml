@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>TML Tunnel Manager</title>
+        <link>https://hassan-alaie.github.io/tml-tunnel-manager/appcast.xml</link>
+        <description>TML Tunnel Manager Update Feed</description>
+        <language>en</language>
+        <item>
+            <title>TML Tunnel Manager v6.9.4</title>
+            <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>6.9.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's new in v6.9.4</h3>
+                <ul>
+                    <li>Auto-reconnect after sleep/wake in tunnel list order</li>
+                    <li>Auto-reconnect after network drop respects dependencies</li>
+                    <li>Prompt window stays visible when clicking other apps</li>
+                    <li>Prompt only closes when its own tunnel disconnects</li>
+                    <li>Disconnect All stops all pending reconnects</li>
+                    <li>Bug fixes</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/hassan-alaie/tml-tunnel-manager/releases/download/v6.9.4/TML.Tunnel.Manager.6.9.4.zip"
+                sparkle:edSignature="eMGiJjAHTjmlNj+mQiIQJEF9LL+XNGkc+wao5jYeLvY10NeLJndiUpOEmlIddodmSS15jzuJa3dlfbXUknRYDg=="
+                length="1978128"
+                type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>TML Tunnel Manager v6.9.3</title>
+            <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>6.9.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's new in v6.9.3</h3>
+                <ul>
+                    <li>New: Tunnel dependency configuration</li>
+                    <li>Auto-reconnect on network drop respects tunnel order and dependencies</li>
+                    <li>Circular dependency protection in settings</li>
+                    <li>Bug fixes</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/hassan-alaie/tml-tunnel-manager/releases/download/v6.9.3/TML.Tunnel.Manager.6.9.3.zip"
+                sparkle:edSignature="pGqbYNguTgR7jPDWFSasw9BB3lz/fF8mOpfhMQAIzSz4TCxZkgA8PN+e1MQjA5IGttYzPUwuIQHUlnObDtLgBQ=="
+                length="1960441"
+                type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
