@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>TML Tunnel Manager</title>
+        <link>https://hassan-alaie.github.io/tml-tunnel-manager/appcast.xml</link>
+        <description>TML Tunnel Manager Update Feed</description>
+        <language>en</language>
+        <item>
+            <title>TML Tunnel Manager v6.9.6</title>
+            <pubDate>Sat, 17 Oct 2026 11:25:00 +0000</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>6.9.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's new in v6.9.6</h3>
+                <ul>
+                    <li>Fixed: Entering BuyPass code after reconnect (sleep/wake or network drop) now works correctly</li>
+                    <li>Fixed: Tunnels no longer race to reconnect after waking from sleep, preventing the BuyPass prompt from being cancelled mid-entry</li>
+                    <li>Fixed: Dependent tunnels (e.g. ssh-osl) now wait cleanly for their dependency to finish authenticating before connecting</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/hassan-alaie/tml-tunnel-manager/releases/download/v6.9.6/TML.Tunnel.Manager.6.9.6.zip"
+                sparkle:edSignature="utvgnWtfHYZ75G7DIn4ZhK8Dg86J+xJxGLaRnZktpeXByouuxtRasTDt1khZBuBbB02MxFZ/pSUjKMXVZHN1CQ=="
+                length="1985424"
+                type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>TML Tunnel Manager v6.9.5.1</title>
+            <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>6.9.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's new in v6.9.5.1</h3>
+                <ul>
+                    <li>Input field is now reliably focused when a prompt appears</li>
+                    <li>Cancelling a prompt now shows grey (disconnected) instead of red error</li>
+                    <li>Bug fixes</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/hassan-alaie/tml-tunnel-manager/releases/download/v6.9.5.1/TML.Tunnel.Manager.6.9.5.1.zip"
+                sparkle:edSignature="R7/5duMsVI5ia2RlybMcIyLh2evldn3fXJGZSOEjx5TM59qWpQ3nGVRjkcU9VDmSuAg6LHVSIf76Q+6iAjtHAQ=="
+                length="1972421"
+                type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>TML Tunnel Manager v6.9.4</title>
+            <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>6.9.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's new in v6.9.4</h3>
+                <ul>
+                    <li>Auto-reconnect after sleep/wake in tunnel list order</li>
+                    <li>Auto-reconnect after network drop respects dependencies</li>
+                    <li>Prompt window stays visible when clicking other apps</li>
+                    <li>Bug fixes</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/hassan-alaie/tml-tunnel-manager/releases/download/v6.9.4/TML.Tunnel.Manager.6.9.4.zip"
+                sparkle:edSignature="eMGiJjAHTjmlNj+mQiIQJEF9LL+XNGkc+wao5jYeLvY10NeLJndiUpOEmlIddodmSS15jzuJa3dlfbXUknRYDg=="
+                length="1978128"
+                type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
